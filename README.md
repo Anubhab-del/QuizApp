@@ -21,7 +21,7 @@ Built with React, React Router for navigation, Redux for state management, and F
 
 2. Install dependencies:
 3. Start the app:
-Open http://localhost:3000 in your browser.
+https://quiz-app-git-master-anubhab-dashs-projects.vercel.app?_vercel_share=99AqW0laoyvr4pMg9NT8s4BBFMfMvLcq
 
 ## Usage
 
