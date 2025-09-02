@@ -19,8 +19,7 @@ Built with React, React Router for navigation, Redux for state management, and F
 
 1. Clone the repo: git clone https://github.com/Anubhab-del/QuizApp.git
 
-2. Install dependencies:
-3. Start the app:
+2. Start the app:
 https://quiz-app-git-master-anubhab-dashs-projects.vercel.app?_vercel_share=99AqW0laoyvr4pMg9NT8s4BBFMfMvLcq
 
 ## Usage
